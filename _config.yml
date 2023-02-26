@@ -253,7 +253,7 @@ date_format: "%B %-d, %Y"
 timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /post/:year:month:day-:slug/
 paginate: 5
 
 kramdown:
@@ -278,7 +278,6 @@ defaults:
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
-  - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE

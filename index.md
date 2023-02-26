@@ -51,7 +51,7 @@ excellent candidate for scalable IoT systems.
 <article>
   <div class="row maincontent">
     <div class="col-12">
-        <img src="/assets/img/teaching.png" style="float: right; width: 18em; padding: 2em; border-radius: 3em;">
+        <img src="/assets/img/teaching.png" class="float-sm-right" style="width: 18em; padding: 2em; border-radius: 3em;">
         {{ teaching_note | markdownify }}
     </div>
   </div>
@@ -60,7 +60,7 @@ excellent candidate for scalable IoT systems.
 <article>
   <div class="row maincontent">
     <div class="col-12">
-        <img src="/assets/img/riscv.png" style="float: left; width: 18em; padding: 2em;">
+        <img src="/assets/img/riscv.png" class="float-sm-left" style="width: 18em; padding: 2em;">
         {{ riscv_note | markdownify }}
     </div>
   </div>
@@ -69,7 +69,7 @@ excellent candidate for scalable IoT systems.
 <article>
   <div class="row maincontent">
     <div class="col-12">
-        <img src="/assets/img/wasm4iot.png" style="float: right; width: 18em; padding: 2em;">
+        <img src="/assets/img/wasm4iot.png" class="float-sm-right" style="float: right; width: 18em; padding: 2em;">
         {{ wasm_note | markdownify }}
     </div>
   </div>
