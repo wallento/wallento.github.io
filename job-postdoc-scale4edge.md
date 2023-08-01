@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Open PostDoc Position "Automatic Exploration of RISC-V Compressed Instruction Set Extensions" (TVL E14)
+title: PostDoc Position
 ---
+
+ # "Automatic Exploration of RISC-V Compressed Instruction Set Extensions" (TVL E14)
 
 RISC-V is an open instruction set, that has been in the center of innovative
 computer architecture research. For an upcoming research project I am looking
