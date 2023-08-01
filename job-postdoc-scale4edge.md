@@ -34,8 +34,9 @@ What you can expect:
 - Deep interaction with the RISC-V community, led by a RISC-V expert
 - Open Source EDA tooling and community interactions
 - Possibility for industry placements
-- Relatively decent salary for an academic position
+- Relatively good salary for an academic position ([TVL E14](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/allg?id=tv-l&g=E_14&s=1&zv=keine&z=100&zulage=&stkl=1&r=&zkf=&kk=15.5%25))
 
 Please get in touch with my if you have any questions or want to apply:
-stefan.wallentowitz@hm.edu. The position will be available January 1st, 2024,
-but the research grant depends on an excellent candidate.
+[stefan.wallentowitz@hm.edu](mailto:stefan.wallentowitz@hm.edu). The position
+will be available January 1st, 2024, but the research grant depends on an
+excellent candidate.
