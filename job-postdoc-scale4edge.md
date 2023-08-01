@@ -14,8 +14,8 @@ embedded systems. The research will focus on the following aspects:
 
 - Identifying patterns using modern static and dynamic methods
 - Automatic generation of instruction set extensions
-- Evaluation of auto-generated instructions using an existing tool the
-  estimates hardware impact
+- Evaluation of auto-generated instructions using an existing tool to
+  estimate hardware impact
 - Evaluation and estimation of software performance impact
 - Automatic generation of standardized libraries for digital signal processing
   and neural networks
@@ -24,7 +24,7 @@ embedded systems. The research will focus on the following aspects:
 Your profile:
 
 - Excellent understanding of Hardware-/Software-Interfaces
-- Fundamental understand of compilers and tooling
+- Fundamental understanding of compilers and tooling
 - Not a must: Knowledge of hardware design
 - Ability to lead a small, dedicated research team
 
